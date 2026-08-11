@@ -220,7 +220,7 @@ The following cases are handled:
 
 #### Validation Error
 
-![Validation Error](screenshots/07validation-error.png)
+![Validation Error](screenshots/07-validation-error.png)
 
 ---
 
