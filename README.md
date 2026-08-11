@@ -178,7 +178,7 @@ The REST APIs are tested using **Postman** to verify CRUD operations, validation
 
 ### Create Student — POST
 
-![Create Student](screenshots/01-create-student.png)
+![Create Student](screenshots/01-created-student.png)
 
 ### Get All Students — GET
 
@@ -190,11 +190,11 @@ The REST APIs are tested using **Postman** to verify CRUD operations, validation
 
 ### Update Student — PUT
 
-![Update Student](04-screenshots/update-student.png)
+![Update Student](screenshots/04-update-student.png)
 
 ### Delete Student — DELETE
 
-![Delete Student]05-(screenshots/delete-student.png)
+![Delete Student](screenshots/05-delete-student.png)
 
 ---
 
@@ -216,11 +216,11 @@ The following cases are handled:
 
 #### Student Not Found
 
-![Student Not Found](06-screenshots/student-not-found.png)
+![Student Not Found](screenshots/06-student-not-found.png)
 
 #### Validation Error
 
-![Validation Error](07-screenshots/validation-error.png)
+![Validation Error](screenshots/07validation-error.png)
 
 ---
 
